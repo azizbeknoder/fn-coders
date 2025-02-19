@@ -18,7 +18,7 @@ export default function Users() {
                 <p className="mb-4">{e.role}</p>
                 <p>Parvoz akademiyasi o'quvchisi</p>
                 <div className='flex gap-6 mt-6'>
-                  <a href={`https://web.telegram.org/${e.telegram}`}>
+                  <a href={`https://t.me/${e.telegram}`}>
                     <img
                       src="/telegram.png"
                       alt="Bu yerda rasm mavjud"
