@@ -2,7 +2,7 @@ export const usersData = [
   {
     name: "Mirzohid",
     role: "Full stack",
-    img: "/all.jpg",
+    img: "/mirzohid.jpg",
     telegram: "Dasturchi77",
     instagram: "/",
   },
@@ -13,13 +13,7 @@ export const usersData = [
     telegram: "DASTURCHI_20",
     instagram: "_sh.u.k.u.r.i.v.i.c_",
   },
-  {
-    name: "Masudbek",
-    role: "Full stack",
-    img: "/all.jpg",
-    telegram: "",
-    instagram: "",
-  },
+
   {
     name: "Davronbek",
     role: "Full stack",
@@ -40,5 +34,19 @@ export const usersData = [
     img: "/all.jpg",
     telegram: "eminjonovv_1",
     instagram: "1_eminjonovv",
+  },
+  {
+    name: "Najmiddin",
+    role: "Full stack",
+    img: "/najmiddin.jpg",
+    telegram: "@najmidd1nm",
+    instagram: "najmiddin._08",
+  },
+  {
+    name: "Rahmatulloh",
+    role: "Full stack",
+    img: "/rahmatillo.jpg",
+    telegram: "/",
+    instagram: "/",
   },
 ];
